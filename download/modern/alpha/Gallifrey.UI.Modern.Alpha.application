@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <assemblyIdentity name="Gallifrey.UI.Modern.Alpha.application" version="3.22.4.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <assemblyIdentity name="Gallifrey.UI.Modern.Alpha.application" version="3.22.5.416" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="Gallifrey" asmv2:product="Gallifrey (Alpha)" asmv2:supportUrl="https://github.com/BlythMeister/Gallifrey" co.v1:errorReportUrl="https://github.com/BlythMeister/Gallifrey" xmlns="urn:schemas-microsoft-com:asm.v1" />
-  <deployment install="true" mapFileExtensions="true" minimumRequiredVersion="3.22.4.0" co.v1:createDesktopShortcut="true">
+  <deployment install="true" mapFileExtensions="true" minimumRequiredVersion="3.22.5.416" co.v1:createDesktopShortcut="true">
     <deploymentProvider codebase="https://releases.gallifreyapp.co.uk/download/modern/alpha/Gallifrey.UI.Modern.Alpha.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\Gallifrey.UI.Modern.Alpha_3_22_4_0\Gallifrey.UI.Modern.Alpha.exe.manifest" size="27273">
-      <assemblyIdentity name="Gallifrey.UI.Modern.Alpha.exe" version="3.22.4.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+    <dependentAssembly dependencyType="install" codebase="Application Files\Gallifrey.UI.Modern.Alpha_3_22_5_416\Gallifrey.UI.Modern.Alpha.exe.manifest" size="27285">
+      <assemblyIdentity name="Gallifrey.UI.Modern.Alpha.exe" version="3.22.5.416" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Cr2XMEbVWm3jMq2XyMIF2uj867dFiCPrxI6Em9UJ7xk=</dsig:DigestValue>
+        <dsig:DigestValue>MWT7tzn47j7XLYs+lSGMcgUiOANCFFm1+Nuz2Ro+Agc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
