@@ -1,4 +1,4 @@
-﻿<xs:schema targetNamespace="https://releases.gallifreyapp.co.uk/ChangeLog" xmlns='https://releases.gallifreyapp.co.uk/ChangeLog' xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+﻿<xs:schema targetNamespace="https://gallifrey-releases.blyth.me.uk/ChangeLog" xmlns='https://gallifrey-releases.blyth.me.uk/ChangeLog' xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
   <xs:element name="Versions">
     <xs:complexType>
       <xs:sequence>
